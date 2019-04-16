@@ -6,7 +6,7 @@ Requires at least: 4.0
 Tested up to: 5.1.0
 Stable tag: trunk
 License: MIT
-License URI: https://???
+License URI: https://github.com/bestrateorg/bestrate-checkout-for-woocommerce/blob/master/LICENSE
 
 The easiest and quickest way to accept Bitcoin, Litecoin, Ethereum and other cryptocurrencies. Receive payouts in crypto, stable coins without exchange rate volatility risk! Made by BestRate.org
 
