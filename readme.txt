@@ -3,7 +3,7 @@ Contributors: bestrate
 Donate link: https://bestrate.org
 Tags: bestrate, bestrateorg, bitcoin, accept bitcoin, accept bitcoin payments, accept crypto payments, accept card payments, litecoin, ethereum, ripple, monero, bitcoin cash, bcash, altcoins, altcoin, accept altcoin, bitcoin processor, bitcoin payment processor, bitcoin gateway, payment gateway, crypto gateway, crypto payment gateway, payment module, bitcoin module, bitcoin woocommerce, btc, btc woocommerce
 Requires at least: 4.0
-Tested up to: 5.1.0
+Tested up to: 5.4.1
 Stable tag: trunk
 License: MIT
 License URI: https://github.com/bestrateorg/bestrate-checkout-for-woocommerce/blob/master/LICENSE
